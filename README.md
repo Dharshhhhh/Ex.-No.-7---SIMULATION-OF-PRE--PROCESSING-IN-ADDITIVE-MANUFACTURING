@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 14/12/2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -39,14 +39,21 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![s2](https://github.com/user-attachments/assets/dbb91334-d8c5-43f8-9ef0-1f1f15ebcd64)
+![s1](https://github.com/user-attachments/assets/355a94e3-23d9-4759-a2d1-38c9d0b81f86)
+![s3](https://github.com/user-attachments/assets/1cf88354-9a79-4a2a-914d-3ee9ac48c7a2)
+![s4](https://github.com/user-attachments/assets/27e76e62-812e-4e7c-8d43-fac72ceb51e2)
+![s5](https://github.com/user-attachments/assets/8c387032-c59b-4e6c-9286-0005d5a80dca)
+![s6](https://github.com/user-attachments/assets/56925413-fd2f-4655-b3b1-6f81df8429a1)
+
 
 ## Output:
-![Screenshot 2024-12-14 085520](https://github.com/user-attachments/assets/969df724-0e51-4435-a19b-8f981e941125)
-![Screenshot 2024-12-14 085539](https://github.com/user-attachments/assets/58d9540f-2c82-450e-b5ef-c494ecd7a119)
-![Screenshot 2024-12-14 085609](https://github.com/user-attachments/assets/9ce51a94-a64a-4059-8a03-ca7b6e48e5a6)
+
+![Screenshot (30)](https://github.com/user-attachments/assets/2bb87694-e473-45da-a313-a152b05ba228)
+![Screenshot 2024-12-14 085539](https://github.com/user-attachments/assets/6e5ad80c-cc35-4425-b719-6f4ef8d2e33e)
+![Screenshot 2024-12-14 085609](https://github.com/user-attachments/assets/9eb8ad08-34c0-41ed-80cd-0a086cd1c6e4)
+![Screenshot (31)](https://github.com/user-attachments/assets/8909d470-5258-4261-9b53-3a645897cbe0)
+![Screenshot (32)](https://github.com/user-attachments/assets/b0c6153b-a0c6-4502-8692-233a95728afc)
 
 
 ### Name:Dharshini R.
